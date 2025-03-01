@@ -22,6 +22,7 @@
 }
 
 body{
+    display: flex;
     max-width: 1440px;
     min-width: 300px;
     background-color: var(--cor5);
@@ -30,6 +31,8 @@ body{
     padding: 20px;
     align-items: center;
     justify-content: center;
+    height: 100vh;
+    margin: 0;
 }
 
 img {
